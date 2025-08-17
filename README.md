@@ -1,6 +1,6 @@
 <!-- Neon Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:8E2DE2,100:4A00E0&height=260&section=header&text=Ravi%20Goyani&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=AI%20Engineer%20%7C%20ML%20%26%20GenAI%20Builder%20%7C%20MLOps&descAlign=50&descAlignY=60&animation=fadeIn" alt="Ravi Goyani header banner"/>
+  <img src="https://github.com/RaviGoyani99/RaviGoyani99/blob/main/artificial-intelligence-concept.jpeg" alt="AI Banner" width="100%" />
 </p>
 
 <!-- Typing intro -->
