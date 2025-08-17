@@ -10,7 +10,7 @@
 
 <h1 align="center">Hi, I'm Ravi Goyani 👋</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ravi-goyani" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ravi%20Goyani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ravi-goyani-030190199" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ravi%20Goyani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-say%20hello-FF4D4D?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://your-portfolio.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-visit-111827?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <img alt="Views" src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=8E2DE2&style=flat">
@@ -104,5 +104,5 @@ print(rag.run("What are the trade-offs of hybrid search for FAQs?"))
 “Ship value, not just models.”
 
 🤝 Connect
-<p align="center"> <a href="https://www.linkedin.com/in/ravi-goyani"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-FF4D4D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> </p><!-- Footer Ribbon --><p align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&color=0:4A00E0,100:8E2DE2&height=120&section=footer&animation=fadeIn" alt="footer wave"/> </p> ```
+<p align="center"> <a href="https://www.linkedin.com/in/ravi-goyani-030190199"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-FF4D4D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> </p><!-- Footer Ribbon --><p align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&color=0:4A00E0,100:8E2DE2&height=120&section=footer&animation=fadeIn" alt="footer wave"/> </p> ```
 Want me to swap in your actual GitHub username, links, and a custom color palette? Tell me your username and any demo/portfolio URLs, and I’ll plug them in.
