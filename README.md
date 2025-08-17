@@ -7,16 +7,16 @@
 
 <!-- Animated intro line (optional) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2800&pause=900&color=4C9EFF&center=true&vCenter=true&width=850&lines=Dhavalkumar+Dineshbhai+Sukhadiya;ML+%E2%80%A2+DL+%E2%80%A2+Generative+AI+%E2%80%A2+MLOps;Turning+models+into+reliable+products" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2800&pause=900&color=4C9EFF&center=true&vCenter=true&width=850&lines=Ravi+Goyani;ML+%E2%80%A2+DL+%E2%80%A2+Generative+AI+%E2%80%A2+MLOps;Turning+models+into+reliable+products" alt="Typing Intro" />
 </p>
 
-<h1 align="center">Hey, I'm Dhavalkumar 👋</h1>
+<h1 align="center">Hey, I'm Ravi 👋</h1>
 <p align="center">
   <b>Machine Learning & Deep Learning Engineer</b> • <b>Generative AI Explorer</b> • <b>MLOps Practitioner</b>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhavalkumar-sukhadiya/">
+  <a href="https://www.linkedin.com/in/Ravi-Goyani/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
   </a>
   <img src="https://komarev.com/ghpvc/?username=sdd261&label=visits&style=flat-square&color=8A2BE2" alt="Profile views" />
@@ -117,7 +117,7 @@
 
 ### 🤝 Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhavalkumar-sukhadiya/">
+  <a href="https://www.linkedin.com/in/Ravi-Goyani/">
     <img src="https://img.shields.io/badge/LinkedIn-Message%20me-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
