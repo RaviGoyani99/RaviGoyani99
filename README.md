@@ -41,7 +41,7 @@
 
 <b>Languages & Libraries</b>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sequelize,opencv&theme=light" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sequelize,opencv,matplotlib&theme=light" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/lightning-792EE5?style=flat-square&logo=pytorchlightning&logoColor=white"/>
 </p>
