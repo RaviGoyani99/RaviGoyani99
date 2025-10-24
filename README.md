@@ -10,10 +10,10 @@
 
 <h1 align="center">Hi, I'm Ravi Goyani 👋</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ravi-goyani-030190199" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ravi%20Goyani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-say%20hello-FF4D4D?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://your-portfolio.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-visit-111827?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <img alt="Views" src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=8E2DE2&style=flat">
+  <a href="https://www.linkedin.com/in/ravi-goyani-030190199" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:ravigoyani501@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-FF4D4D?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"></a>
+
 </p>
 
 ---
@@ -79,30 +79,3 @@
   <a href="https://your-repo-link.com" target="_blank"><img src="https://img.shields.io/badge/Code-LLM%20Toolkit-8e2de2?style=for-the-badge&logo=github&logoColor=white" alt="LLM toolkit"/></a>
   <a href="https://your-notebook-link.com" target="_blank"><img src="https://img.shields.io/badge/Notebook-Computer%20Vision-22c55e?style=for-the-badge&logo=jupyter&logoColor=white" alt="CV notebook"/></a>
 </p>
-
----
-
-### 🧩 Example Pipeline (RAG, concise)
-```python
-from langchain_community.vectorstores import FAISS
-from langchain.embeddings import HuggingFaceEmbeddings
-from langchain_openai import ChatOpenAI
-from langchain.chains import RetrievalQA
-
-embed = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
-db = FAISS.from_texts(texts, embedding=embed)
-
-llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
-rag = RetrievalQA.from_chain_type(llm, retriever=db.as_retriever(search_kwargs={"k": 6}))
-
-print(rag.run("What are the trade-offs of hybrid search for FAQs?"))
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats"/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/> <br/> <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak"/> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true" alt="Contribution Graph"/> </p>
-🏆 Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dracula&no-frame=true&row=1&column=7" alt="GitHub Trophies"/> </p>
-💬 Favorite line
-“Ship value, not just models.”
-
-🤝 Connect
-<p align="center"> <a href="https://www.linkedin.com/in/ravi-goyani-030190199"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-FF4D4D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> </p><!-- Footer Ribbon --><p align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&color=0:4A00E0,100:8E2DE2&height=120&section=footer&animation=fadeIn" alt="footer wave"/> </p> ```
-Want me to swap in your actual GitHub username, links, and a custom color palette? Tell me your username and any demo/portfolio URLs, and I’ll plug them in.
