@@ -13,8 +13,7 @@
   <a href="https://www.linkedin.com/in/ravi-goyani-030190199" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:ravigoyani501@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-FF4D4D?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=RaviGoyani99&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
-
+  <a target="_blank"><img src="https://komarev.com/ghpvc/?username=RaviGoyani99&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views" /></a>
 </p>
 
 ---
